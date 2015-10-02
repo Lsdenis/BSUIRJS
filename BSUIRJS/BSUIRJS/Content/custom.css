@@ -12,7 +12,7 @@
 
 .small-image {
     height: 100px;
-    width: 130px;
+    width: 135px;
     display: block;
     margin: 0 auto;
 }
@@ -54,3 +54,15 @@
      margin-left: 60px;
      margin-right: 60px;
  }
+
+.padding-left-first {
+    padding-left: 30px;
+}
+
+.padding-left-second {
+    
+}
+
+.padding-left-third {
+    
+}
