@@ -1,1 +1,56 @@
-﻿
+﻿.green {
+    background-color: green;
+}
+
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.small-image {
+    height: 100px;
+    width: 130px;
+    display: block;
+    margin: 0 auto;
+}
+
+.big-image {
+    height: 150px;
+    width: 300px;
+}
+
+.calibri {
+    font-family: "Calibri";
+}
+
+.letter-space {
+    letter-spacing: 12px;
+}
+
+.white {
+    color: white;
+}
+
+.bottom-text {
+    text-decoration: underline;
+    font-style: italic;
+    color: red;
+    font-size: 25px;
+    font-family: "Cambria";
+}
+
+.margin-small {
+    margin-top: 10px;
+}
+
+ .margin-middle {
+     margin-top: 30px
+ }
+
+ .spacing li{
+     margin-left: 60px;
+     margin-right: 60px;
+ }
